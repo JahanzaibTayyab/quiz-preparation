@@ -43,7 +43,7 @@ Each quiz below corresponds to a major topic in the OpenAI Agents SDK documentat
 ### 6. Grand Quiz (Comprehensive)
 
 - **File:** [grand_quiz-1.md](./grand_quiz-1.md)
-- **Description:** A comprehensive quiz that covers all the above topics (Agents, Results, Running Agents, Streaming, Tools) for advanced certification or review.
+- **Description:** A comprehensive quiz that covers all the above topics (Agents, Results, Running Agents, Streaming, Tools)
 - [Google Form Link](https://docs.google.com/forms/d/1ia84b4T7caVvtdujzwx4ULYHITeJKm0Yyp9pLaKYAE8/viewform)
 
 ---
