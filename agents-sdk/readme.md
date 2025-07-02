@@ -46,6 +46,54 @@ Each quiz below corresponds to a major topic in the OpenAI Agents SDK documentat
 - **Description:** A comprehensive quiz that covers all the above topics (Agents, Results, Running Agents, Streaming, Tools)
 - [Google Form Link](https://docs.google.com/forms/d/1ia84b4T7caVvtdujzwx4ULYHITeJKm0Yyp9pLaKYAE8/viewform)
 
+### 7. Handoffs
+
+- **File:** [handoffs_quiz.md](./handoffs_quiz.md)
+- **Description:** Quiz focused on agent handoffs and delegation.
+- [Google Form Link](#)
+
+### 8. Configuration
+
+- **File:** [config.md](./config.md)
+- **Description:** Configuration options and best practices for agent setup.
+- [Google Form Link](#)
+
+### 9. Models
+
+- **File:** [models.md](./models.md)
+- **Description:** Details on models, schemas, and data structures used in the SDK.
+- [Google Form Link](#)
+
+### 10. Multi-Agent Systems
+
+- **File:** [multi_agent.md](./multi_agent.md)
+- **Description:** Building and orchestrating multi-agent systems.
+- [Google Form Link](#)
+
+### 11. Advanced Usage
+
+- **File:** [openai_agents_sdk_advanced.md](./openai_agents_sdk_advanced.md)
+- **Description:** In-depth, advanced usage and real-world scenarios for the OpenAI Agents SDK.
+- [Google Form Link](#)
+
+### 12. Guardrails
+
+- **File:** [guardrails.md](./guardrails.md)
+- **Description:** Implementing and customizing guardrails for compliance and validation.
+- [Google Form Link](#)
+
+### 13. Context Management
+
+- **File:** [context.md](./context.md)
+- **Description:** Managing and utilizing context in agent workflows.
+- [Google Form Link](#)
+
+### 14. Tracing
+
+- **File:** [tracing.md](./tracing.md)
+- **Description:** Tracing, debugging, and monitoring agent runs.
+- [Google Form Link](#)
+
 ---
 
 For more information, see the [OpenAI Agents SDK Documentation](https://openai.github.io/openai-agents-python/).
