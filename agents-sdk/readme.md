@@ -94,6 +94,31 @@ Each quiz below corresponds to a major topic in the OpenAI Agents SDK documentat
 - **Description:** Tracing, debugging, and monitoring agent runs.
 - [Google Form Link](https://docs.google.com/forms/d/1RD3Pt1ymqZ-M4xTDbMhD91Vb2QzPqOuciig93-K0N2o)
 
+### 15. OpenAI Agent Advanced Quiz
+
+- **File:** [openai_agent_advanced_quiz.md](./openai_agent_advanced_quiz.md)
+- **Description:** Advanced scenarios and professional-level questions for OpenAI Agents SDK mastery.
+
+### 16. OpenAI Agents Advanced Quiz (Version 1)
+
+- **File:** [openai_agents_advanced_quiz.md](./openai_agents_advanced_quiz.md)
+- **Description:** Advanced professional assessment covering complex agent implementations and enterprise scenarios.
+
+### 17. OpenAI Agents Advanced Quiz (Version 2)
+
+- **File:** [openai_agents_advanced_quiz_1.md](./openai_agents_advanced_quiz_1.md)
+- **Description:** Additional advanced scenarios and expert-level questions for comprehensive SDK knowledge.
+
+### 18. OpenAI Agents Comprehensive Quiz
+
+- **File:** [openai_agents_comprehensive_quiz.md](./openai_agents_comprehensive_quiz.md)
+- **Description:** Comprehensive assessment covering all aspects of the OpenAI Agents SDK with real-world scenarios.
+
+### 19. OpenAI Agents Comprehensive Quiz (Version 2)
+
+- **File:** [openai_agents_comprehensive_quiz2.md](./openai_agents_comprehensive_quiz2.md)
+- **Description:** Advanced comprehensive quiz with 82 professional-level questions covering all OpenAI Agents SDK features and production scenarios.
+
 ---
 
 For more information, see the [OpenAI Agents SDK Documentation](https://openai.github.io/openai-agents-python/).
