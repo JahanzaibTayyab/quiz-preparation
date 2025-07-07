@@ -119,6 +119,11 @@ Each quiz below corresponds to a major topic in the OpenAI Agents SDK documentat
 - **File:** [openai_agents_comprehensive_quiz2.md](./openai_agents_comprehensive_quiz2.md)
 - **Description:** Advanced comprehensive quiz with 82 professional-level questions covering all OpenAI Agents SDK features and production scenarios.
 
+### 20. OpenAI Agents SDK Quiz
+
+- **File:** [openai_agents_quiz.md](./openai_agents_quiz.md)
+- **Description:** A comprehensive quiz with 47 questions covering OpenAI Agents SDK concepts, features, and best practices. Time limit: 60 minutes, Passing score: 70%. Includes difficulty levels from Beginner to Advanced covering topics like Agent Configuration, Error Handling, Guardrails, Handoffs, Streaming, and more.
+
 ---
 
 For more information, see the [OpenAI Agents SDK Documentation](https://openai.github.io/openai-agents-python/).
