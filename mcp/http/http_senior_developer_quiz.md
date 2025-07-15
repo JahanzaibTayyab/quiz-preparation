@@ -1,6 +1,6 @@
 # 🌐 HTTP Senior Developer - Expert Scenario Quiz
 
-Welcome to the HTTP Senior Developer Quiz! This quiz is designed for experienced developers (5+ years) and tests your ability to solve real-world HTTP problems, debug complex issues, implement advanced features, and make architectural decisions.
+Welcome to the HTTP Senior Developer Quiz! This quiz is designed for experienced developers and tests your ability to solve real-world HTTP problems, debug complex issues, implement advanced features, and make architectural decisions.
 
 **Instructions:**
 
